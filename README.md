@@ -6,7 +6,7 @@ Aqui veremos algumas resoluções de códigos em python utilizando o Github Copi
 
 
 
-## 1 - Concatenando Dados 🐾
+## 1 - Concatenando Dados 
 
  Recebe dois dados diferentes do usuário e concatena-los em uma única string. 
 
@@ -17,7 +17,7 @@ Aqui veremos algumas resoluções de códigos em python utilizando o Github Copi
 
 <br>
 
-## 2 - Repetindo Textos ✏️
+## 2 - Repetindo Textos 
 
  Solicita uma string e um número inteiro como entrada. Retorna a string repetida o número de vezes informado. 
 
@@ -29,7 +29,7 @@ Aqui veremos algumas resoluções de códigos em python utilizando o Github Copi
 
 <br>
 
-## 3 - Operações Matemáticas Simples 📐
+## 3 - Operações Matemáticas Simples 
 
  Solicita como entrada dois números e uma operação simples entre eles.
 
@@ -41,7 +41,7 @@ Aqui veremos algumas resoluções de códigos em python utilizando o Github Copi
 <br>
 
 
-## 4 - Calculando Média de Notas 📚
+## 4 - Calculando Média de Notas 
 
  Calcula a média de 2 notas de prova e 1 nota de trabalho fornecidas na entrada do usuário. 
 
@@ -54,7 +54,7 @@ Aqui veremos algumas resoluções de códigos em python utilizando o Github Copi
 
 <br>
 
-## 5 - Verificando Palíndromos 🔄
+## 5 - Verificando Palíndromos 
 
  Testa se uma palavra é um palíndromo?! 
  
